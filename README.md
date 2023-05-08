@@ -1,0 +1,5 @@
+Download Link: https://assignmentchef.com/product/solved-solveda-parking-garage-solution-in-c
+<br>
+A parking garage chages a $2.00 minimum fee to park up to three hours.The garage charges an additional $0.50 per hour for each hour or part thereof in excess of three hours. The maximum charge for any given 24-hour period is $10.00. Assume that no cars park for longer than 24 hours at a time.
+
+How do I write a program that calculates and prints the parking charges for each of the three customers who parked their cars in this garage yesterday.Entering the hours parked for each customer. The program should print the results in a neat tabular format and should calculate and print the total of yesterday’s receipts. The program should use the calculateCharges to determine the charge for each customer.
